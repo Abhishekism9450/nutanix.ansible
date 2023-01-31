@@ -156,7 +156,7 @@ ansible-playbook examples/iaas/iaas.yml
 | ntnx_ndb_databases_info | Get database info. |
 | ntnx_ndb_db_servers_info | Get db servers vm info. |
 | ntnx_ndb_clusters_info | Get clusters info. |
-| ntnx_ndb_slas_info | Get slas info |
+| ntnx_ndb_slas_info | Get slas info. |
 | ntnx_ndb_profiles_info | Get profiles info. |
 | ntnx_ndb_time_machines_info | Get time machines info. |
 | ntnx_ndb_clones_info | Get database clones info. |
